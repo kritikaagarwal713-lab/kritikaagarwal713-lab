@@ -18,8 +18,16 @@ I have also worked on simple AI projects and have hands-on experience with AWS a
  # 💻 Tech Stack:
 C++ | C | Java | Python | JavaScript | AWS | Node.js | MongoDB | HTML5
 ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikaaagarwal713&show_icons=true&cache_seconds=86400)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat)
+
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat&logo=github)
+
+
+
+
 
 
 ## ☁️ Cloud & DevOps
