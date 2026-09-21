@@ -5,11 +5,11 @@ I am actively working in Web Development, focused on building strong coding and 
 
 I have also worked on simple AI projects and have hands-on experience with AWS and Cloud Computing.
 
+## 🌐 Socials:
 
-# 🌐 Socials:
-- LinkedIn
-- Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
  # 💻 Tech Stack:
 C++ | C | Java | Python | JavaScript | AWS | Node.js | MongoDB | HTML5
 
