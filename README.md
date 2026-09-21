@@ -18,11 +18,9 @@ I have also worked on simple AI projects and have hands-on experience with AWS a
  # 💻 Tech Stack:
 C++ | C | Java | Python | JavaScript | AWS | Node.js | MongoDB | HTML5
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
