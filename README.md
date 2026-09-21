@@ -7,9 +7,14 @@ I have also worked on simple AI projects and have hands-on experience with AWS a
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
  # 💻 Tech Stack:
 C++ | C | Java | Python | JavaScript | AWS | Node.js | MongoDB | HTML5
 
