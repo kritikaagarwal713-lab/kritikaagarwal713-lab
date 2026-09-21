@@ -17,18 +17,13 @@ I have also worked on simple AI projects and have hands-on experience with AWS a
 
  # 💻 Tech Stack:
 C++ | C | Java | Python | JavaScript | AWS | Node.js | MongoDB | HTML5
+
 ## 📊 GitHub Stats:
-## 📊 GitHub Stats:
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat)
-
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat&logo=github)
-
-
-
-
-
+- ⭐ Building projects and improving coding skills
+- 💻 Exploring Web Development
+- ☁️ Learning AWS & Cloud Computing
+- 🤖 Working on AI projects
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
