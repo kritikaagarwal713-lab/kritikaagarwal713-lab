@@ -1,17 +1,18 @@
-# Hi 👋, I'm Kritika Agarwal
+ Hi, I'm Kritika Agarwal👋
+ 💫 About Me:
 
 I am actively working in Web Development, focused on building strong coding and problem-solving skills.
 
 I have also worked on simple AI projects and have hands-on experience with AWS and Cloud Computing.
 
-## 🌐 Socials
+🌐 Socials
 - LinkedIn
 - Email
 
-## 💻 Tech Stack
+ 💻 Tech Stack
 C++ | C | Java | Python | JavaScript | AWS | Node.js | MongoDB | HTML5
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
