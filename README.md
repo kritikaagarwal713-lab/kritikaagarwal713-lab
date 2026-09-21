@@ -20,10 +20,11 @@ C++ | C | Java | Python | JavaScript | AWS | Node.js | MongoDB | HTML5
 
 ## 📊 GitHub Stats:
 
-- ⭐ Building projects and improving coding skills
-- 💻 Exploring Web Development
-- ☁️ Learning AWS & Cloud Computing
-- 🤖 Working on AI projects
+![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects-Building-2ea44f?style=flat&logo=github)
+![Coding](https://img.shields.io/badge/Coding-Problem%20Solving-blue?style=flat)
+![AI](https://img.shields.io/badge/AI-Projects-orange?style=flat)
+
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
